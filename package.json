@@ -1,0 +1,24 @@
+{
+  "name": "homework_49_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./js/tests/",
+    "start": "node ./js/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^29.2.0",
+    "@types/node": "^18.11.6",
+    "babel-jest": "^29.2.2",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
